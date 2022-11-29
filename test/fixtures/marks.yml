@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  m1: 1.5
+  m2: 1.5
+  m3: 1.5
+  m4: 1.5
+  m5: 1.5
+  student: one
+
+two:
+  m1: 1.5
+  m2: 1.5
+  m3: 1.5
+  m4: 1.5
+  m5: 1.5
+  student: two
